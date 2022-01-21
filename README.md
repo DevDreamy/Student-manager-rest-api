@@ -1,4 +1,4 @@
-# Student-manager-rest-api
+# Student Manager Rest API
 This REST API was built during **Basic to Advanced JavaScript and TypeScript Course 2021**
 
 This API is beeing used for the [Student Manager](https://github.com/DevDreamy/Student-manager)
